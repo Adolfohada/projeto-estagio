@@ -1,5 +1,7 @@
 # Redes : Explorando os conceitos fundamentais de redes, incluindo topologias, protocolos, endereçamento IP, roteamento e segurança. Utilize uma ferramenta de sua escolha para demonstração do funcionamento.
 
+Link dos slides da minha apresentação:
+
 https://www.canva.com/design/DAGICQJ1idE/6GG0NciQRGj4N0krWj41-Q/view?utm_content=DAGICQJ1idE&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
 
