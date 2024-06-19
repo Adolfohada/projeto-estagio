@@ -82,6 +82,10 @@ https://www.canva.com/design/DAGICQJ1idE/6GG0NciQRGj4N0krWj41-Q/view?utm_content
     terminal : nslookup linkdosite
     para ver o endereço ip.addr== endereço ip
     ai entrar no wireshark e coloca ip.adrres
+    • basicamente mostrar no wireshark, a rede que você está usando e dentro dela colocar em especifico o
+    endereço ip do site que estava pesquisando e clicar nele e lá mostra tudo criptografado por conta do site em
+    que estava pesquisando era https, se fosse http a pessoa em si conseguiria ver o que você estava pesquisando no site.
+    
 
 # Sistemas Operacionais: Scripting de Redes: Aborde como usar o shell script para automatizar tarefas de rede, como teste de conectividade, verificação de portas abertas e configuração de interfaces de rede.
 
