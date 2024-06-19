@@ -22,7 +22,7 @@ https://www.canva.com/design/DAGICQJ1idE/6GG0NciQRGj4N0krWj41-Q/view?utm_content
     • Vantagens: Simples e eficiente. Menos cabos são necessários.
     • Desvantagens: Uma falha em qualquer dispositivo ou conexão pode afetar toda a rede.
     
-Topologia em Malha:
+  Malha:
 
     • Descrição: Todos os dispositivos estão conectados uns aos outros, formando uma rede de conexões.
     • Vantagens: Muita redundância e confiabilidade. Se um caminho falhar, outros podem ser usados.
@@ -48,24 +48,25 @@ Topologia em Malha:
     • UDP (User Datagram Protocol): Protocolo de transporte que envia pacotes de dados sem a necessidade de estabelecer uma conexão.
     • HTTPS é uma versão segura do HTTP, adiciona criptografia para proteger comunicações online.
 
-  Endereço ip:
+  ENDEREÇO IP:
 
   IPv4 (Internet Protocol version 4):
   
     • O que é: É o padrão mais antigo e amplamente usado para atribuir endereços únicos a dispositivos na internet.
     • Formato: Consiste em quatro conjuntos de números, separados por pontos, por exemplo, 192.168.1.1.
     • Limitações: Tem um número limitado de endereços (cerca de 4,3 bilhões), o que está se esgotando à medida que mais dispositivos se conectam à internet.
-IPv6 (Internet Protocol version 6):
+  
+  IPv6 (Internet Protocol version 6):
 
     • O que é: É o novo padrão criado para substituir o IPv4 e resolver seu problema de escassez de endereços.
     • Formato: Usa um formato hexadecimal de oito conjuntos de quatro dígitos, separados por dois pontos, por exemplo, 2001:0db8:85a3:0000:0000:8a2e:0370:7334.
     • Capacidade: Oferece um número vastamente maior de endereços possíveis (mais de 340 undecilhões, o que é um número muito grande).
 
- Roteamento:
+ ROTEAMENTO:
   
     • O roteamento é o processo pelo qual os pacotes de dados são encaminhados através de uma rede de um dispositivo para outro, até o destino desejado. Os roteadores são dispositivos fundamentais que facilitam esse processo, utilizando tabelas de roteamento para decidir o caminho mais eficiente para enviar pacotes.
 
-  Segurança de Redes:
+  SEGURANÇA DE REDES:
   
       A segurança em redes é crucial para proteger os dados e os recursos da rede contra acessos não autorizados e ameaças. Alguns aspectos importantes incluem:
       
